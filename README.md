@@ -1,1 +1,51 @@
 # Elevate-Labs-Task-4
+📊 Sales Analytics Dashboard – Power BI
+
+Objective
+
+Created an interactive dashboard to analyze sales performance, product contribution, regional performance, and salesperson efficiency using Power BI.
+
+
+---
+
+Key Concepts Learned
+
+KPI (Key Performance Indicators)
+
+Total Revenue
+
+Units Sold
+
+Average Order Value (AOV)
+Used cards to show business health instantly.
+
+
+DAX Measures Created calculated metrics instead of raw averages:
+
+Avg Order Value = DIVIDE(SUM(Amount), COUNTROWS(data))
+
+Time-Series Analysis Used monthly trend line to identify growth and decline patterns.
+
+Slicers & Filters Added Country, Product, Date, and Salesperson slicers for interactive analysis.
+
+Visualization Logic
+
+Line chart → trend
+
+Map → regional comparison
+
+Bar chart → product ranking
+
+Column chart → salesperson performance
+
+
+
+---
+
+Skills Gained
+
+Power BI · DAX · KPI Design · Interactive Dashboards · Business Data Interpretation
+
+
+---
+ 
